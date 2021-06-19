@@ -33,8 +33,8 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-    backgroundImage: require("../assets/Staff.png")
+    backgroundColor: '#F5FCFF'
+    //backgroundImage: require("../assets/Staff.png")
   },
   title: {
     fontSize: 30,
