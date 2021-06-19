@@ -49,6 +49,7 @@ export default class CreateAccount extends React.Component {
       })
         .then(res => res.json())
         .then(res => {
+		  alert("Done Added");
           console.log("res", res);
         })
         .catch(err => {
